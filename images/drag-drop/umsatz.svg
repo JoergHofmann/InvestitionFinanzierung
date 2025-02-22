@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="150"
+   viewBox="0 0 400 150"
+   version="1.1"
+   id="svg520"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="umsatz.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview522"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-101"
+     inkscape:cy="268"
+     inkscape:window-width="1920"
+     inkscape:window-height="1176"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs517">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Sstart-9"
+       style="overflow:visible">
+      <path
+         id="path3920-8"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(0.3,0,0,0.3,-0.69,0)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="umsatz"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.1289483,0,0,0.16218144,73.347902,-31.733276)"
+       id="layer1-45-9"
+       style="display:inline">
+      <path
+         d="m 514.29,450.93 c 0,46.55 -37.736,84.286 -84.286,84.286 -46.55,0 -84.286,-37.736 -84.286,-84.286 0,-46.55 37.736,-84.286 84.286,-84.286 46.55,0 84.286,37.736 84.286,84.286 z"
+         transform="translate(61.429,148.57)"
+         id="path3757-8-8"
+         style="fill:#ffffff;stroke:#2c3a4e;stroke-width:20;stroke-linecap:round;stroke-miterlimit:0" />
+      <rect
+         width="505.70999"
+         height="202.86"
+         rx="0"
+         ry="0"
+         x="157.14"
+         y="626.65002"
+         id="rect2985-8-0"
+         style="fill:#ffffff;stroke:#2c3a4e;stroke-width:20;stroke-linecap:square" />
+      <path
+         d="m 277.14,330.93 c 0,35.504 -28.782,64.286 -64.286,64.286 -35.504,0 -64.286,-28.782 -64.286,-64.286 0,-35.504 28.782,-64.286 64.286,-64.286 35.504,0 64.286,28.782 64.286,64.286 z"
+         transform="translate(118.57,194)"
+         id="path3755-9-6"
+         style="fill:#ffffff;stroke:#2c3a4e;stroke-width:17;stroke-linecap:round;stroke-miterlimit:0" />
+      <path
+         d="m 442.86,272.36 c 0,26.825 -21.746,48.571 -48.571,48.571 -26.825,0 -48.571,-21.746 -48.571,-48.571 0,-26.825 21.746,-48.571 48.571,-48.571 26.825,0 48.571,21.746 48.571,48.571 z"
+         transform="translate(56,174)"
+         id="path3759-1-9"
+         style="fill:#ffffff;stroke:#2c3a4e;stroke-width:14;stroke-linecap:round;stroke-miterlimit:0" />
+      <text
+         x="397.14285"
+         y="797.21936"
+         id="text3761-3-0"
+         xml:space="preserve"
+         style="font-size:12px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000"><tspan
+           x="397.14285"
+           y="797.21936"
+           id="tspan3763-2-3"
+           style="font-weight:bold;font-size:190px;font-family:FreeSans;fill:#2c3a4e">€</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Sstart-9);marker-end:none"
+       d="m 618.33346,368.21355 c 273.77351,-0.72427 273.04924,-0.72427 273.04924,-0.72427"
+       id="path7091-3"
+       transform="matrix(1.1939657,0,0,1.50168,-688.07859,-436.68078)" />
+    <text
+       xml:space="preserve"
+       style="display:inline;font-size:32px;fill:#000000"
+       x="738.63953"
+       y="355.71301"
+       id="text658"
+       transform="matrix(1.1939657,0,0,1.50168,-688.07859,-436.68078)"><tspan
+         id="tspan656"
+         x="738.63953"
+         y="355.71301">520</tspan></text>
+  </g>
+</svg>
